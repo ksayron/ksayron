@@ -6,10 +6,10 @@
 <h3 align=center> 📊 GitHub Stats</h2>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksayron&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="355" heigth="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksayron&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" width="355" heigth="195"/>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ksayron&style=for-the-badge&color=000000"/>
+  <img src="https://komarev.com/ghpvc/?username=ksayron&style=for-the-badge&color=563d7c"/>
 </div>
 <!--
 **ksayron/ksayron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
