@@ -6,7 +6,7 @@
 <h3 align=center> 📊 GitHub Stats</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ksayron&show_icons=true&theme=dark&hide_border=true&rank_icon=github"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksayron&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksayron&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="355" heigth="195"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ksayron&style=for-the-badge&color=000000"/>
