@@ -1,9 +1,15 @@
 ## 👾 Indie Developer 👾
-**<code>.Net Enthusiast</code>**
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3IxNnpwZXhvNDBjNjM4dmRuYnRobTFjZmtnNWIyc2Q2YWVkNWY4bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/osfxWYjpF6SuIkInSw/200.webp" width="450"/>
+<h3 align=center>🛠 Languages & Tools </h2>
+<div align="center">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="40" height="40" alt="C#" title="C#"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" width="40" height="40" alt="C++" title="C++"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg" width="40" height="40" alt="DotNet" title="DotNet"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" alt="React" title="React"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" width="40" height="40" alt="VS" title="VS"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Unity-Dark.svg" width="40" height="40" alt="Unity" title="Unity"/>&nbsp;
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Godot-Dark.svg" width="40" height="40" alt="Godot" title="Godot"/>&nbsp;
 </div>
-<h3 align=center> 📊 GitHub Stats</h2>
+<h3 align=center> 📊 GitHub Stats</h3>
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksayron&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" width="355" heigth="195"/>
