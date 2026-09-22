@@ -1,4 +1,4 @@
-## 👾 Indie Developer 👾
+## 👾 Professional C# / .NET Developer 👾
 <h3 align=center>🛠 Languages & Tools </h2>
 <div align="center">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" width="40" height="40" alt="C#" title="C#"/>&nbsp;
@@ -12,7 +12,7 @@
 <h3 align=center> 📊 GitHub Stats</h3>
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksayron&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" width="355" heigth="195"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ksayron&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" width="355" heigth="195"/>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ksayron&style=for-the-badge&color=563d7c"/>
